@@ -16,4 +16,7 @@ Authors: Rice DSP - Joshua Michalenko, ameeshshah
 (createYAMLFromYacc, generateDataFromYAML) and two are used for creating the stack state
 based on that data (makeStates.sh and its subprocess, processStackOutput.py).
 
+To resolve dependencies: please use the following command:
+pip install daps
+
 Please direct any questions to jjm7@rice.edu or ars7@rice.edu.
